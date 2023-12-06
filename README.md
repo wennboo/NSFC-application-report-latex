@@ -1,4 +1,4 @@
-# NSFC-application-report-template-
+# NSFC-application-report-latex-template
 ###### Mon Mar 10 16:26:33 CST 2023
 
 %%%  bowang1988@163.com    2023.3.10 BoWang (School of Automation, HDU)
